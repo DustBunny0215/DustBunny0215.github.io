@@ -2,3 +2,7 @@
   image-rendering: pixelated;
   image-rendering: crisp-edges; 
 }
+body{
+  font-size: 20px;
+  font-family: "游ゴシック","Yu Gothic"	,"ヒラギノ角ゴ ProN W6",HiraMinProN-W6,メイリオ, Meiryo, Verdana, Helvetica, Arial, sans-serif;
+}
