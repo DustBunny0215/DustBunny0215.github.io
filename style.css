@@ -3,6 +3,22 @@
   image-rendering: crisp-edges; 
 }
 body{
+  padding-left: 10px;
   font-size: 20px;
   font-family: "游ゴシック","Yu Gothic"	,"ヒラギノ角ゴ ProN W6",HiraMinProN-W6,メイリオ, Meiryo, Verdana, Helvetica, Arial, sans-serif;
+}
+a:link {
+  color: #404040; 
+  background-color: transparent;   
+  text-decoration: none;
+}
+a:visited {
+  color: #808080;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #808080;
+  background-color: transparent;
+  text-decoration: underline;
 }
